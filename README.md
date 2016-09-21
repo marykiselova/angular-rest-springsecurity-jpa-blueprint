@@ -23,6 +23,7 @@ Technologies
 * [Jersey](https://jersey.java.net/)
 * [Spring Security](http://projects.spring.io/spring-security/)
 * [Hibernate](http://hibernate.org/)
+* [MYSQL]
 
 Running
 -------
